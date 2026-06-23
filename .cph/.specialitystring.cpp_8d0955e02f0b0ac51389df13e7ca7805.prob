@@ -1,0 +1,1 @@
+{"name":"Local: specialitystring","url":"d:\\personal\\codeforces\\specialitystring.cpp","tests":[{"id":1778317785436,"input":"6\n1\na\n6\nllmllm\n6\nuwuuwu\n6\nbyebye\n6\noooioi\n12\nsiixxsevvenn","output":"NO\nYES\nYES\nNO\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\specialitystring.cpp","group":"local","local":true}

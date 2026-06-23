@@ -1,0 +1,1 @@
+{"name":"Local: newyearmeeting","url":"d:\\personal\\codeforces\\newyearmeeting.cpp","tests":[{"id":1777733751026,"input":"7 1 4","output":"6"},{"id":1777733757217,"input":"30 20 10","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\newyearmeeting.cpp","group":"local","local":true}

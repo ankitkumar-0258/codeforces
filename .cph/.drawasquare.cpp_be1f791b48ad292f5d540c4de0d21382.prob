@@ -1,0 +1,1 @@
+{"name":"Local: drawasquare","url":"d:\\personal\\codeforces\\drawasquare.cpp","tests":[{"id":1778955831559,"input":"2\n2 2 2 2\n1 2 3 4","output":"Yes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\drawasquare.cpp","group":"local","local":true}

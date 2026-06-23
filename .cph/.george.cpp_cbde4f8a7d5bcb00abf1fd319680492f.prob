@@ -1,0 +1,1 @@
+{"name":"Local: george","url":"c:\\Users\\Ankit\\Videos\\codeforces\\george.cpp","tests":[{"id":1775742857098,"input":"3\n1 1\n2 2\n3 3","output":"0"},{"id":1775742874061,"input":"3\n1 10\n0 10\n10 10","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Ankit\\Videos\\codeforces\\george.cpp","group":"local","local":true}

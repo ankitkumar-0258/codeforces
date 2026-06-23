@@ -1,0 +1,1 @@
+{"name":"Local: normal","url":"c:\\Users\\Ankit\\Videos\\codeforces\\normal.cpp","tests":[{"id":1777647419371,"input":"5\nqwq\nppppp\npppwwwqqq\nwqpqwpqwwqp\npqpqpqpq","output":"pwp\nqqqqq\npppwwwqqq\nqpwwpqwpqpw\npqpqpqpq"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Ankit\\Videos\\codeforces\\normal.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: paranormix","url":"d:\\personal\\codeforces\\paranormix.cpp","tests":[{"id":1779375652953,"input":"3 5","output":"YES"},{"id":1779375667033,"input":"2 3","output":"YES"},{"id":1779375675115,"input":"3 8","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\paranormix.cpp","group":"local","local":true}
