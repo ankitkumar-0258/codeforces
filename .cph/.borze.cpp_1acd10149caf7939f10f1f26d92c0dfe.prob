@@ -1,0 +1,1 @@
+{"name":"Local: borze","url":"d:\\personal\\codeforces\\borze.cpp","tests":[{"id":1782492151976,"input":".-.--","output":"012"},{"id":1782492310566,"input":"--.","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\borze.cpp","group":"local","local":true}
