@@ -1,0 +1,1 @@
+{"name":"Local: blacksquare","url":"d:\\personal\\codeforces\\blacksquare.cpp","tests":[{"id":1783177968054,"input":"1 2 3 4\n123214","output":"13"},{"id":1783177996184,"input":"1 5 3 2\n11221","output":"13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\blacksquare.cpp","group":"local","local":true}
