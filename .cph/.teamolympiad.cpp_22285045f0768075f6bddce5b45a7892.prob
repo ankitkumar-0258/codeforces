@@ -1,0 +1,1 @@
+{"name":"Local: teamolympiad","url":"d:\\personal\\codeforces\\teamolympiad.cpp","tests":[{"id":1783435910185,"input":"7\n1 3 1 3 2 1 2","output":"2\n3 5 2\n6 7 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\teamolympiad.cpp","group":"local","local":true}
