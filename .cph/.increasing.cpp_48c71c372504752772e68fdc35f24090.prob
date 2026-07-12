@@ -1,0 +1,1 @@
+{"name":"Local: increasing","url":"d:\\personal\\codeforces\\increasing.cpp","tests":[{"id":1783868524591,"input":"3\n4\n1 1 1 1\n5\n8 7 1 3 4\n1\n5","output":"NO\nYES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\increasing.cpp","group":"local","local":true}
