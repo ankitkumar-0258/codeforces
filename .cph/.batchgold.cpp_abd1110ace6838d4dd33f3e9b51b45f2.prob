@@ -1,0 +1,1 @@
+{"name":"Local: batchgold","url":"d:\\personal\\codeforces\\batchgold.cpp","tests":[{"id":1784128960954,"input":"6","output":"3\n2 2 2"},{"id":1784128994960,"input":"5","output":"2\n2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\batchgold.cpp","group":"local","local":true}
