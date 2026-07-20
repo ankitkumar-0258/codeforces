@@ -1,0 +1,1 @@
+{"name":"Local: fairdivision","url":"d:\\personal\\codeforces\\fairdivision.cpp","tests":[{"id":1783870114771,"input":"5\n2\n1 1\n2\n1 2\n4\n1 2 1 2\n3\n2 2 2\n3\n2 1 2","output":"YES\nNO\nYES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\fairdivision.cpp","group":"local","local":true}
