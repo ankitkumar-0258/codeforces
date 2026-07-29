@@ -16,12 +16,7 @@ int main() {
          a=a/b;
          count++;
        } 
-       while(x!=0){
-             x=x/y;
-           bount++;
-           y++;
-           bount++;
-       }
+      
         cout<<min(count,bount)<<endl;
     }
     return 0;
