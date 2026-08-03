@@ -3,10 +3,23 @@ using namespace std;
 int main() {
     string s;
     cin>>s;
-     s[0]=toupper(s[0]);
-     for(int i =1; i<s.size(); i++){
-        s[i]=tolower(s[i]);
-     }
-     cout<<s<<endl;
-    return 0;
+      bool x= true;
+    for(int i=1; i<s.size(); i++){
+          if(islower(s[i])){
+               x=false;
+               break;
+          }
+    }
+    if(x){
+         for(int i=0; i<s.size(); i++){
+              if(islower(s[i])){
+                 s[i]=toupper(s[i]);
+              }
+              else{
+                 s[i]=tolower(s[i]);
+              }
+         }
+    }
+      cout<<s<<endl;
+     return 0;
 }
