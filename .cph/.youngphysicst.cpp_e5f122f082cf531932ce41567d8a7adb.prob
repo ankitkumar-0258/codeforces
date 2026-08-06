@@ -1,0 +1,1 @@
+{"name":"Local: youngphysicst","url":"d:\\personal\\codeforces\\youngphysicst.cpp","tests":[{"id":1786034847919,"input":"3\n4 1 7\n-2 4 -1\n1 -5 -3","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\youngphysicst.cpp","group":"local","local":true}
