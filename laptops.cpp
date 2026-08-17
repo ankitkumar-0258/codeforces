@@ -5,11 +5,9 @@ int main() {
      cin>>n;
      vector<pair<int,int>>temp(n);
      for(int i=0; i<n;  i++){
-         cin>>temp[i].first;
+         cin>>temp[i].first>>temp[i].second;
      }
-     for(int i=0; i<n;  i++){
-         cin>>temp[i].second;
-     }
+   
       int x=-1;
      sort(temp.begin(),temp.end());
     for(int i=0; i<n-1; i++){
