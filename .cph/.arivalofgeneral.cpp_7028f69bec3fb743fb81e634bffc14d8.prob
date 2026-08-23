@@ -1,0 +1,1 @@
+{"name":"Local: arivalofgeneral","url":"d:\\personal\\codeforces\\arivalofgeneral.cpp","tests":[{"id":1787503161255,"input":"7\n10 10 58 31 63 40 76","output":"10"},{"id":1787503917295,"input":"4\n33 44 11 22","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\arivalofgeneral.cpp","group":"local","local":true}
