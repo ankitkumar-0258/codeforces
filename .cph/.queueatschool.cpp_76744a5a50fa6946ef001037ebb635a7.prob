@@ -1,0 +1,1 @@
+{"name":"Local: queueatschool","url":"d:\\personal\\codeforces\\queueatschool.cpp","tests":[{"id":1787756334096,"input":"5 1\nBGGBG","output":"GBGGB"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\queueatschool.cpp","group":"local","local":true}
