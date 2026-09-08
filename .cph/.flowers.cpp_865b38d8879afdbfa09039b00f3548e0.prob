@@ -1,0 +1,1 @@
+{"name":"Local: flowers","url":"d:\\personal\\codeforces\\flowers.cpp","tests":[{"id":1788717848555,"input":"5\n1 1 1 1 2 2 3 2 2 1 1 1","output":"2"},{"id":1788717953313,"input":"11\n1 1 4 1 1 5 1 1 4 1 1 1","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\flowers.cpp","group":"local","local":true}
