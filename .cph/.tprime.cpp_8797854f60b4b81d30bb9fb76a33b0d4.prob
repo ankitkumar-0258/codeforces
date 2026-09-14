@@ -1,0 +1,1 @@
+{"name":"Local: tprime","url":"d:\\personal\\codeforces\\tprime.cpp","tests":[{"id":1789320846969,"input":"3\n4 5 6","output":"YES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\tprime.cpp","group":"local","local":true}
