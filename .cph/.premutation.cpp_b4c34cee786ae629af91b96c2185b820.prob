@@ -1,0 +1,1 @@
+{"name":"Local: premutation","url":"d:\\personal\\codeforces\\premutation.cpp","tests":[{"id":1790447189805,"input":"1","output":"-1"},{"id":1790447202635,"input":"2","output":"2 1"},{"id":1790447215118,"input":"4","output":"2 1 4 3 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\premutation.cpp","group":"local","local":true}
