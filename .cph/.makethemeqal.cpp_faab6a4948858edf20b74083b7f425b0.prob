@@ -1,0 +1,1 @@
+{"name":"Local: makethemeqal","url":"d:\\personal\\codeforces\\makethemeqal.cpp","tests":[{"id":1792843882620,"input":"3\n4 a\naaaa\n4 a\nbaaa\n4 b\nbzyx","output":"0\n1\n2\n2 \n2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\makethemeqal.cpp","group":"local","local":true}
