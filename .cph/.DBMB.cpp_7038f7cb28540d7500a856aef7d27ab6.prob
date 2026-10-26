@@ -1,0 +1,1 @@
+{"name":"Local: DBMB","url":"d:\\personal\\codeforces\\DBMB.cpp","tests":[{"id":1793039163402,"input":"6\n3 3 5\n1 1 1\n3 8 2\n1 2 3\n4 7 2\n1 1 1 1\n3 15 1\n2 4 10\n2 100 5\n4 6\n5 12 1\n1 2 2 3 2","output":"YES\nYES\nNO\nNO\nYES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\DBMB.cpp","group":"local","local":true}
