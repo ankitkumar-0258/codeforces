@@ -15,8 +15,8 @@ using namespace std;
              int sum=temp[x]+temp[y];
              if(sum==i){
                  count++;
-                 x++;
-                 y--;
+                  x++;
+                  y--;
              }
 
              else if(sum<i){
