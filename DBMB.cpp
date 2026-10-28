@@ -12,7 +12,7 @@ using namespace std;
          }
 
           else if(sum<s){
-              while(sum<=s){
+              while(sum<s){
                  sum+=x;
               }
 
