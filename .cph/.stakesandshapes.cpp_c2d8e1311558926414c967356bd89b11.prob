@@ -1,0 +1,1 @@
+{"name":"Local: stakesandshapes","url":"d:\\personal\\codeforces\\stakesandshapes.cpp","tests":[{"id":1793461597839,"input":"2\n0 0 3\n1 1 2","output":"RPS\nSPSS"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\stakesandshapes.cpp","group":"local","local":true}
