@@ -10,13 +10,31 @@ int main() {
             cin>>s>>t;
             temp.push_back({s,t});
       }
-      vector<string>t;
+      vector<string>te;
       for(int i=0; i<n; i++){
         string s;
         cin>>s;
-        t.push_back(s);
+        te.push_back(s);
       }
-      
+           string t;
+      for(int i=0; i<te.size(); i++){
+         string s= te[i];
+         for(auto it : temp){
+             if(it.first==s||it.second==s){
+                 if(it.first.size()==it.second.size()){
+                    t+=it.first+" ";
+                 }
+                 else if(it.first.size()>it.second.size()){
+                    t+=it.second+" ";
+                 }
+                 else{
+                     t+=it.first+" ";
+                 }
+             } 
+         }
+      }
+
+      cout<<t<<endl;
 
     return 0;
 }
