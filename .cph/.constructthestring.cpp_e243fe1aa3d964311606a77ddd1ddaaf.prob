@@ -1,0 +1,1 @@
+{"name":"Local: constructthestring","url":"d:\\personal\\codeforces\\constructthestring.cpp","tests":[{"id":1793639892565,"input":"4\n7 5 3\n6 1 1\n6 6 1\n28 2 2","output":"tleelte\nqwerty\nvvvvvv\nabcde"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\constructthestring.cpp","group":"local","local":true}
