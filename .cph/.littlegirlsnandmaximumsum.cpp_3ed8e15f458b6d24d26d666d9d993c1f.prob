@@ -1,0 +1,1 @@
+{"name":"Local: littlegirlsnandmaximumsum","url":"d:\\personal\\codeforces\\littlegirlsnandmaximumsum.cpp","tests":[{"id":1794243187455,"input":"3 3\n5 3 2\n1 2\n2 3\n1 3","output":"25"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\littlegirlsnandmaximumsum.cpp","group":"local","local":true}

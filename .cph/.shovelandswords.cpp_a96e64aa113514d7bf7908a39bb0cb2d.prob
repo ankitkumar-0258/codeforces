@@ -1,0 +1,1 @@
+{"name":"Local: shovelandswords","url":"d:\\personal\\codeforces\\shovelandswords.cpp","tests":[{"id":1794245200631,"input":"4\n4 4\n1000000000 0\n7 15\n8 7","output":"2\n0\n7\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\shovelandswords.cpp","group":"local","local":true}
