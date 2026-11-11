@@ -1,0 +1,1 @@
+{"name":"Local: multiplicationtable","url":"d:\\personal\\codeforces\\multiplicationtable.cpp","tests":[{"id":1794329697968,"input":"10 5","output":"2"},{"id":1794329713568,"input":"100000  5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\personal\\codeforces\\multiplicationtable.cpp","group":"local","local":true}
